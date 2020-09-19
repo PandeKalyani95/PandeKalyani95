@@ -4,11 +4,11 @@ I am Kalyani Pande , My main Interest My main interest lies in Machine Learning 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Machine Learning projects.
-- 🌱 I’m currently learning ## NLP, Deep Learning ##, and best practices for Machine Learning, Big Data, Python
+- 🌱 I’m currently learning ## NLP, Deep Learning , and best practices for Machine Learning, Big Data, Python
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with ## Flask ## and ## Deep Learning ##
+- 🤔 I’m looking for help with ## Flask ## and ## Deep Learning
 - 💬 Ask me about Statistics, Machine Learning
-- 📫 contact me directly on this mail:- ## pyanipande19@gmail.com ##
-- 😄 Pronouns: ## she/her ##
+- 📫 contact me directly on this mail:- ## pyanipande19@gmail.com 
+- 😄 Pronouns: ## she/her 
 - ⚡ Fun fact: I am a bit obsessive about my notes and studies.
 
