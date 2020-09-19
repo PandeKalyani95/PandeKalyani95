@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - I am Kalyani Pande , My main Interest lies in Machine Learning and AI. I also have basic knowledge of Tableau, NLP, Hadoop and Linux. I am always curious to learn something new and I believe in keep learning. Because never stop learning until you become perfect.
-Here are some ideas to get you started:
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Machine Learning projects.
 - 🌱 I’m currently learning NLP, Deep Learning , and best practices for Machine Learning, Big Data, Python
