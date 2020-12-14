@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on a Machine Learning projects.
 - 🌱 I’m currently learning NLP, Deep Learning , and best practices for Machine Learning, Big Data, Python
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with Flask and Deep Learning.
-- 💬 Ask me about Statistics, Machine Learning
+- 👯 I’m looking to collaborate on Machine Learning as well as Deep Learning Projects
+- 🤔 I’m looking for help with Flask and Computer Vision.
+- 💬 Ask me about Statistics, Machine Learning, Data
 - 📫 contact me directly on this mail:- pyanipande19@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I am a bit obsessive about my notes and studies.
